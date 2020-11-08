@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/joycebabu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joycebabu" height="30" width="40" /></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joycebabu&layout=compact)](https://github.com/joycebabu/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joycebabu&layout=compact)
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=joycebabu)
