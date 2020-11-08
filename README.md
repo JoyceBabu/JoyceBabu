@@ -17,6 +17,3 @@
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=joycebabu)
-
-<p align="left" style="opacity:0;"> ![Profile views](https://gpvc.arturio.dev/joycebabu)</p>
-
