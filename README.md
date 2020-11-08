@@ -4,12 +4,13 @@
 
 - 📝 I blog at [https://www.joycebabu.com](https://www.joycebabu.com)
 
-### Connect with me:
-<p align="left">
-<a href="https://twitter.com/joycebabu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="joycebabu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/joycebabu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joycebabu" height="30" width="40" /></a>
-</p>
+<details>	
+  <summary><b>🔗 Connect with me</b></summary>
 
+  <a href="https://twitter.com/joycebabu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="joycebabu" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/joycebabu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joycebabu" height="30" width="40" /></a>
+</details>
+  
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
