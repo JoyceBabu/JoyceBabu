@@ -1,9 +1,3 @@
-- 🔭 I’m currently working on [Prokerala](https://www.prokerala.com)
-
-- 🌱 I’m currently learning **Python, Rust, React**
-
-- 📝 I blog at [https://www.joycebabu.com](https://www.joycebabu.com)
-
 <details>	
   <summary><b>🔗 Connect with me</b></summary>
 
